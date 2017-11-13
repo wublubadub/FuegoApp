@@ -55,6 +55,5 @@ public class CreateAccount extends AppCompatActivity {
                 startActivity(new Intent(CreateAccount.this, Start.class));
             }
         });
-// sdf;lkjsfd;lkjsdf;lkjsdf
     }
 }
